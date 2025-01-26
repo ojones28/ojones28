@@ -1,5 +1,6 @@
 # Active Projects
 - [DCS 88 App](https://github.com/Bobthe28th/dcs88-app) (currently working on)
+- [DCS 88 Server](https://github.com/Bobthe28th/dcs88-server) (currently working on)
 - [Personal Website](https://github.com/Bobthe28th/personal-web)
 - [CTF 2024](https://github.com/Bobthe28th/bday)
 
